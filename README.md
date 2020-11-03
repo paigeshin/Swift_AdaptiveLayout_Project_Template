@@ -145,4 +145,4 @@ extension UIButton {
 
 ```
 
-5. Apply `AdaptiveLayoutConstraint` to every constraint on Storyboard. If you write your code without storyboard, use `AdaptiveLayoutConstraint` instead of Constraint.
+5. Apply `AdaptiveLayoutConstraint` to every constraint on Storyboard. If you write your code without storyboard, use `AdaptiveLayoutConstraint` instead of Constraint. And set `setAdaptiveLayout` to true.
