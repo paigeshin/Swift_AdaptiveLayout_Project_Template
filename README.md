@@ -144,3 +144,5 @@ extension UIButton {
 
 
 ```
+
+5. Apply `AdaptiveLayoutConstraint` to every constraint 
